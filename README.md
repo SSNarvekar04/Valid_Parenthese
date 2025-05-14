@@ -1,4 +1,4 @@
-Valid Parentheses Checker
+Valid Parentheses Checker (python)
 
 A simple Python function to check whether a given string of brackets — `()`, `{}`, `[]` — is balanced or not.
 
