@@ -1,10 +1,11 @@
 Valid Parentheses Checker
 
-A simple Python function to check whether a given string of brackets — `()`, `{}`, `[]` — is balanced or not. Useful for interview prep, coding practice, and understanding stack-based algorithms.
+A simple Python function to check whether a given string of brackets — `()`, `{}`, `[]` — is balanced or not.
 
-##Problem Statement
+Problem Statement
 
-Given a string containing just the characters `(`, `)`, `{`, `}`, `[` and `]`, determine if the input string is valid.
+Write a function to check whether a given string containing only (), {}, [] is 
+balanced.
 
 A string is valid if:
 - Open brackets are closed by the same type of brackets.
